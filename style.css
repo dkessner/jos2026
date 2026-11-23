@@ -1,0 +1,83 @@
+/*
+ * style.css
+ */
+
+body {
+    color: #000; /* black */
+    font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+    font-size: 12pt; /* 22 in ppt */
+}
+
+.normal h1 {
+    color: #a96d4b; /* bronze */
+    font-size: 20pt; /* 38pt in ppt */
+    width: 80%;
+}
+
+hr {
+    background-color: #fff;
+    height: 2px;
+}
+
+.title {
+    /*background-color: #7a7257;*/ /* gray-brown */
+    /*background-color: #a96d4b; /* bronze */
+    background-image: linear-gradient(45deg, #a96d4b, #d97);
+    color: #fff;
+}
+
+
+.title h1 {
+    color: #fff; /* white */
+    font-size: 45pt; /* 58pt in ppt */
+}
+
+.title h2 {
+    /*color: #d6d2c4;*/ /* natural white */
+    color: #fff; /* white */
+    font-size: 24pt; /* 26pt in ppt */
+    margin: 0;
+}
+
+.title del {
+    text-decoration-color: #000;
+    text-decoration-thickness: 4px;
+}
+
+.title h3 {
+    color: #fff; /* white */
+    font-size: 18pt; 
+}
+
+.title img {
+    float: left;
+    padding: 10px;
+}
+
+
+.footer { 
+    color: #7a7257; /* gray-brown */
+    font-size: 10pt;
+    position: absolute; 
+    bottom: 2px; 
+    right: 100px;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+  padding: 1%;
+}
+
+.column_small {
+  flex: 50%;
+  padding: 1%;
+}
+
+img {
+    padding: 3%;
+}
+
