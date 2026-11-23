@@ -1,4 +1,4 @@
-# Joy of Science 2025
+# Joy of Science 2026
 
-[Live Site](https://dkessner.github.io/jos2025)
+[Live Site](https://dkessner.github.io/jos2026)
 
