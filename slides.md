@@ -177,3 +177,4 @@ $$
 SA_{cylinder} = (2 \pi r)(2r) = 4 \pi r^2
 $$
 
+<img src="pix/hat1.jpg" width=25%/>
